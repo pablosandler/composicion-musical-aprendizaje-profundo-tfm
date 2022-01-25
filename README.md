@@ -1,2 +1,7 @@
-# composicion-musical-aprendizaje-profundo-tfm
-Composición musical mediante aprendizaje profundo
+# Composición musical mediante aprendizaje profundo
+
+El aprendizaje profundo se ha convertido en el área de investigación de mayor crecimiento dentro del aprendizaje automático. Como resultado de su versatilidad y potencia, su aplicación está aumentando en las tareas de generación de contenido automático, como textos, imágenes o música, el objeto de nuestro estudio. La música presenta algunas particularidades que la distinguen de otros tipos de contenido y que dificultan su tratamiento y análisis, entre ellas, su carácter subjetivo. En este trabajo nos hemos propuesto entrenar tres modelos de aprendizaje profundo (red generativa adversaria, autoencoder y transformer) con dos conjuntos de datos para luego evaluar las composiciones musicales generadas de manera objetiva, mediante una serie de métricas cuantitativas, y subjetiva, por medio de encuestas a seres humanos. Los resultados indican que las métricas objetivas no están necesariamente alineadas con la calidad musical, sin embargo, son de gran utilidad para realizar comparativas de conjuntos de datos y modelos.
+
+En este repositorio se pueden encontrar las cien composiciones generadas por cada modelo de aprendizaje profundo con cada conjunto de datos.
+
+También se incluyen cien de las composiciones originales de cada conjunto de datos
